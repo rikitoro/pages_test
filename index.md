@@ -22,6 +22,6 @@ module simple (
   output  logic [7:0] y
 );
   assign a = y;
-endmodule //
+endmodule // 
 ````
 $y = f(x)$
